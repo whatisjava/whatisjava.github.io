@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Genesis coding]]></title>
   <link href="http://whatisjava.github.io/atom.xml" rel="self"/>
   <link href="http://whatisjava.github.io/"/>
-  <updated>2017-09-19T23:20:10+08:00</updated>
+  <updated>2017-09-20T00:12:24+08:00</updated>
   <id>http://whatisjava.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[whatisjava]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://whatisjava.github.io/blog/2017/09/19/hello-world/"/>
+    <updated>2017-09-19T23:55:24+08:00</updated>
+    <id>http://whatisjava.github.io/blog/2017/09/19/hello-world</id>
+    <content type="html"><![CDATA[<h2>this is a test page.</h2>
+]]></content>
+  </entry>
   
 </feed>
