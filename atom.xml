@@ -4,7 +4,7 @@
   <title><![CDATA[Genesis coding]]></title>
   <link href="http://whatisjava.github.io/atom.xml" rel="self"/>
   <link href="http://whatisjava.github.io/"/>
-  <updated>2017-09-24T23:01:08+08:00</updated>
+  <updated>2017-09-24T23:04:19+08:00</updated>
   <id>http://whatisjava.github.io/</id>
   <author>
     <name><![CDATA[whatisjava]]></name>
@@ -12,24 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[标题]]></title>
-    <link href="http://whatisjava.github.io/blog/2017/09/24/biao-ti/"/>
-    <updated>2017-09-24T22:59:30+08:00</updated>
-    <id>http://whatisjava.github.io/blog/2017/09/24/biao-ti</id>
-    <content type="html"><![CDATA[<h2>这里是这篇文章的内容，马上就快到国庆长假了，回家的车票已经买好，剩下的几天把工作处理妥当，就等着美好的假期啦！</h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Title]]></title>
-    <link href="http://whatisjava.github.io/blog/2017/09/24/title/"/>
-    <updated>2017-09-24T22:55:38+08:00</updated>
-    <id>http://whatisjava.github.io/blog/2017/09/24/title</id>
-    <content type="html"><![CDATA[<h1>这是一篇简单的博客</h1>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
